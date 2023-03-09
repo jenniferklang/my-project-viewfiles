@@ -1,0 +1,75 @@
+nav {
+  align-items: center;
+  min-height: 10vh;
+}
+.navbar-titles a {
+  text-transform: uppercase;
+  text-decoration: none;
+  letter-spacing: 4px;
+  font-size: 15px;
+  padding-right: 100px;
+}
+.nav-links {
+  display: inline-flex;
+  justify-content: space-around;
+  list-style: none;
+}
+.brushes img {
+  width: 100%;
+  position: absolute;
+  right: 0;
+  bottom: 1;
+  z-index: -1;
+}
+p {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 20px;
+}
+.searchbox {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 200px;
+}
+.button1 {
+  display: flex;
+  justify-content: center;
+}
+.button2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.counter-button {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+.call-to-action {
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: bold;
+  position: absolute;
+  padding-top: 450px;
+  padding-left: 200px;
+}
+.contact-button {
+  display: flex;
+  justify-content: center;
+  padding-top: 10px;
+}
+
+.contact-us {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 200px;
+}
+
+.counter-button {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
